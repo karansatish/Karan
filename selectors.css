@@ -1,0 +1,31 @@
+p{
+    color: red;
+    font-size: medium;
+    font-style: initial;
+}
+#para2{
+    color: teal;
+    font-style: oblique;
+    font-weight: 400;
+    font-variant: small-caps;
+ }
+#para3{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+.siuu{
+    color: darkmagenta;
+    font-style: oblique;
+    font-size: 25px;
+    text-align: center;
+}
+.root{
+    color: chartreuse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* *{
+    color: rgb(30, 215, 13);
+    font-size: xx-large;
+} */

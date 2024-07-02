@@ -1,0 +1,193 @@
+.username{
+    width: 150px;
+    height: 30px;
+    border: 2.2px solid teal;
+    border-radius: 15px;
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(52, 50, 47);
+    margin-left: 240px;
+}
+.label{
+    margin-left: 250px;
+}
+.username:hover{
+    background-color: rgb(219, 226, 226);
+    box-shadow: 2px;
+}
+.username:focus{
+    background-color: rgb(225, 220, 220);
+}
+.Age{
+    width: 100px;
+    height: 15px;
+    border: 2.2px solid teal;
+    border-radius: 15px;
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.label1{
+    margin-left: 250px;
+}
+.email{
+    width: 250px;
+    height: 18px;
+    border: 2.2px solid teal;
+    border-radius: 15px;
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.label2{
+    margin-left: 250px;
+}
+.password{
+    width: 190px;
+    height: 17px;
+    border: 2.2px solid teal;
+    border-radius: 15px;
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+    
+}
+.label3{
+    margin-left: 250px;
+}
+.search{
+    width: 100px;
+    height: 15px;
+    border: 2.2px solid teal;
+    border-radius: 15px;
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.label4{
+    margin-left: 250px;
+}
+.checkbox{
+    appearance: none;
+   width: 15px; 
+   height: 15px;
+    border: 1.2px solid teal;
+    border-style: inherit;
+    
+    color: rgb(88, 85, 81);
+    font-size: 24px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.checkbox:checked{
+    background-color: rgb(8, 8, 8);
+    background-image: url("download.jpeg");
+    background-size: 12px 15px;
+}
+
+.label5{
+    margin-left: 250px;
+}
+.dsdv{
+    appearance: none;
+    width: 15px; 
+    height: 15px;
+    border: 1.2px solid teal;
+    
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.dsdv:checked{
+    background-color: rgb(8, 8, 8);
+    background-image: url("https://e7.pngegg.com/pngimages/697/297/png-clipart-checkbox-icon-checkbox-button-tick-box-angle-text-thumbnail.png");
+    background-size: 12px 15px;
+}
+.label6{
+    margin-left: 250px;
+}
+.epc{
+    appearance: none;
+    width: 15px; 
+   height: 15px;
+    border: 1.2px solid teal;
+    
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.epc:checked{
+    background-color: rgb(8, 8, 8);
+    background-image: url("https://e7.pngegg.com/pngimages/697/297/png-clipart-checkbox-icon-checkbox-button-tick-box-angle-text-thumbnail.png");
+    background-size: 12px 15px;
+}
+.label7{
+    margin-left: 250px;
+}
+.na{
+    appearance: none;
+    width: 15px; 
+    height: 15px;
+    border: 1.2px solid teal;
+    
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.na:checked{
+    background-color: rgb(8, 8, 8);
+    background-image: url("https://e7.pngegg.com/pngimages/697/297/png-clipart-checkbox-icon-checkbox-button-tick-box-angle-text-thumbnail.png");
+    background-size: 12px 15px;
+}
+.label8{
+    margin-left: 250px;
+}
+.co{
+    appearance: none;
+    width: 15px; 
+    height: 15px;
+    border: 1.2px solid teal;
+    
+    color: rgb(88, 85, 81);
+    font-size: 14px;
+    background-color: rgb(216, 193, 165);
+    margin-left: 240px;
+}
+.co:checked{
+    background-color: rgb(8, 8, 8);
+    background-image: url("https://e7.pngegg.com/pngimages/697/297/png-clipart-checkbox-icon-checkbox-button-tick-box-angle-text-thumbnail.png");
+    background-size: 12px 15px;
+}
+.label9{
+    margin-left: 250px;
+}
+.label10{
+    margin-left: 250px;
+}
+.label11{
+    margin-left: 450px;
+}
+.label12{
+    margin-left: 250px;
+}
+.label13{
+    margin-left: 250px;
+    
+}
+.label14{
+    margin-left: 250px;
+}
+.label15{
+    margin-left: 250px;
+}
+body{
+    background-image: url("/Assets/Ubuntu-wallpapers-HD-desktop-free-download.jpg");
+}
+
